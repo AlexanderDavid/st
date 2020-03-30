@@ -1,5 +1,6 @@
 st
-st.o
-x.o
+*.o
+*.orig
+*.rej
 pkg/
 *.pkg.tar.xz
